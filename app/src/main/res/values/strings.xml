@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Insert Name</string>
+    <string name="LblNama">Masukan Nama</string>
+    <string name="Btn_Tampil_Nama">Tampilkan</string>
+</resources>
